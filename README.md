@@ -6,8 +6,13 @@
 
 # Staff To-Do
 + Add basic login functions
++ Add autojoin guild functions
 + Add showing servers
 + Add create server page
++ Add server deletion
++ Add change resources function (this is a possible no)
+
+
 
  
  
