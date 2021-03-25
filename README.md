@@ -11,7 +11,8 @@
 + Add create server page
 + Add server deletion
 + Add change resources function (this is a possible no)
-
++ Add staff page
++ Add discord bot (again possible no)
 
 
  
